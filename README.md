@@ -1,6 +1,8 @@
 ## About me 
 
-Hi, my name is Mario. I'm a Cracow-based freelance software developer. I enjoy building everything from small businesss sites to rich interactive web apps. Still learning and discovering new stuff! 
+Hi, my name is Mario. I'm a Cracow-based freelance software developer. 
+I enjoy building everything from small business sites to rich interactive web apps. 
+Still learning and discovering new stuff! 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariusz-szubryt/)](https://www.linkedin.com/in/mariusz-szubryt/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mariuszubryt@gmail.com)](mailto:mariuszubryt@gmail.com)
