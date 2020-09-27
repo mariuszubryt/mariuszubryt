@@ -1,6 +1,6 @@
 ## About me 
 
-Hi, my name is Mario. I'm a Cracow-based freelance web developer. 
+Hi, my name is Mario. I'm a Cracow-based freelance software developer. 
 
 I enjoy building everything from small business sites to rich interactive web apps. 
 
