@@ -1,13 +1,10 @@
-## About me 
+### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px">
 
-Hi, my name is Mario. I'm a Cracow-based freelance software developer. 
+My name is Mario. I'm a Cracow-based freelance software developer. 
 
 I enjoy building everything from small business sites to rich interactive web apps. 
 
 Still learning and discovering new stuff! 
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariusz-szubryt/)](https://www.linkedin.com/in/mariusz-szubryt/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mariuszubryt@gmail.com)](mailto:mariuszubryt@gmail.com)
 
 ## Technologies 
 
@@ -41,3 +38,9 @@ Still learning and discovering new stuff!
 
 [![Vercel](https://img.shields.io/badge/Vercel%20-%23000000.svg?&style=flat&logo=vercel&logoColor=white)](https://github.com/mariuszubryt/)
 [![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?&style=flat&logo=heroku&logoColor=white)](https://github.com/mariuszubryt/)
+
+## Get in touch
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariusz-szubryt/)](https://www.linkedin.com/in/mariusz-szubryt/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mariuszubryt@gmail.com)](mailto:mariuszubryt@gmail.com)
+
